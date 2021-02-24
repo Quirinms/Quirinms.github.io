@@ -1,13 +1,5 @@
----
-layout: default
-title: DeepBionics
----
-<div class="blurb">
-	
-	<h1> Deep Bionics</h1>
-	<p> Nothing to see in about </p>
-	
-</div><!-- /.blurb -->
+
+
 
 # R Packages
 
