@@ -15,11 +15,7 @@
 
 
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
+
 
 <table class="tablelines">
   <thead>
@@ -135,11 +131,7 @@
 </table>
 
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
+
 
 | P | Q | P * Q |
 | - | - | - |
@@ -152,12 +144,12 @@
 |---|---|---|
 |a  | b | c|
 | 1|2|3|
-{: .tablelines}
+
 
 | Name                | Licence    | Link | Authors                                                                                        |
 |---------------------|------------|------|------------------------------------------------------------------------------------------------|
 | DataVisualizations  | GPL-3      | CRAN | Michael Thrun, Felix Pape, Onno Hansen-Goos, Dirk Eddelbuettel, Craig Varrichio, Alfred Ultsch |
 | DatabionicSwarm     | GPL-3      | CRAN | Michael Thrun                                                                                  |
 
-{: .tablelines}
+
 
