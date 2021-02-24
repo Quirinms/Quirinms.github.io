@@ -1,7 +1,4 @@
----
-layout: default
-title: DeepBionics
----
+
 <div class="blurb">
 	
 	<h1> Deep Bionics</h1>
