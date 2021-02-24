@@ -1,4 +1,4 @@
 	name: Deep Bionics
 	markdown: kramdown
-
+	future: true
 theme: jekyll-theme-modernist
