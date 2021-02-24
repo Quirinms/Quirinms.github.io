@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
 
-<object data="files/Distance-based_functions_for_image_comparison.pdf" style="width:100%;height:300px">
+<object data="files/Distance-based_functions_for_image_comparison.pdf" style="width:100%;height:600px">
   <a href="files/Distance-based_functions_for_image_comparison.pdf">PDF laden</a>
 </object>
 
