@@ -1,10 +1,3 @@
----
-layout: default
-title: DeepBionics
----
-<div class="blurb">
-  
-
-	
-</div><!-- /.blurb -->
-
+| Name                | Licence    | Link | Authors                                                                                        |
+|---------------------|------------|------|------------------------------------------------------------------------------------------------|
+| DataVisualizations  | GPL-3      | CRAN | Michael Thrun, Felix Pape, Onno Hansen-Goos, Dirk Eddelbuettel, Craig Varrichio, Alfred Ultsch |
