@@ -4,6 +4,17 @@
 # R Packages
 
 
+
+## Variable Declarations
+
+| **var** | **let** | **const** |
+|-----|-----|-----|
+| Declares a variable, optionally initializing it to a value. | Declares a block-scoped, local variable, optionally initializing it to a value. | Declares a block-scoped, read-only named constant. |
+| Variable declared by **`var`** must start with a letter, underscore ( _ ) or dollar sign ($) and can contain alphabetic, numeric, or underscore characters. | Variable declared by **`let`** must start with a letter, underscore ( _ ) or dollar sign ($) and can contain alphabetic, numeric, or underscore characters. | Variable declared by **`const`** must start with a letter, underscore ( _ ) or dollar sign ($) and can contain alphabetic, numeric, or underscore characters. |
+
+
+
+
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
