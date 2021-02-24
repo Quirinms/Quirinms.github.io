@@ -1,5 +1,5 @@
 
- > "Science is the belief in the ignorance of experts. 1"
+> "Science is the belief in the ignorance of experts. 1"
 
 >> 1: Richard Feyman, "What is Science?", presented at the fifteenth annual meeting of the National Science Teachers Association, in New York City, 1966.*
 
