@@ -1,5 +1,5 @@
 name: Deep Bionics
-markdown: kramdown
+markdown: GFM
 
 sidebar:
   - title: "Title"
