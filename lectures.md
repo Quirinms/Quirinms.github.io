@@ -28,9 +28,8 @@ If you find my ideas worth using please cite me accordingly.
 Databionics means the transfer of algorithms for data processing from nature. One major part of databionicsis artificial intelligence (AI). In this context, AI is restricted to seeking, explaining and emulating intelligentbehavior in the form of a computational processes. 
 
 ### Chapter 1: Databionics and Randomness
-* <a href="logo.png" download>Click to Download</a>
-* <a href="files/logo.zip" download>Click to Download</a>
-* [Introduction into Databionics](files/logo.zip)
-* [Introduction into](files/based_functions_for_image_comparison.pdf)
+* <a href="files/logo.zip" download>Introduction into Databionics</a>
+* <a href="files/logo.zip" download>Chance - The Prerequesite for Emergence </a>
+### Chapter 2: Introduction into Supervised Artificial Neural Networks 
 *  
 
