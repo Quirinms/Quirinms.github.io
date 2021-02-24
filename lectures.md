@@ -5,11 +5,12 @@ title: DeepBionics
 <div class="blurb">
 	
 	<h1> Deep Bionics</h1>
-	<p> Nothing to see in about </p>
 	
 </div><!-- /.blurb -->
 
+ > "Science is the belief in the ignorance of experts. 1"
 
+* 1: Richard Feyman, "What is Science?", presented at the fifteenth annual meeting of the National Science Teachers Association, in New York City, 1966.*
 
 Scientific approaches should be evaluated very carefully, critically and extensively discussed, as well as tested in real life.
 On that account, please be most sceptical about anything you read on my website.
