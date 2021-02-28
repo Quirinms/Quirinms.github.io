@@ -10249,6 +10249,10 @@ body {
   }
 }
 
+.my-plain-text-section {
+  text-align: justify;
+}
+
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
@@ -10301,9 +10305,6 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.15rem;
   border: 0;
-}
-.my-plain-text-section {
-  text-align: justify;
 }
 .contact-section {
   padding-top: 5rem;
