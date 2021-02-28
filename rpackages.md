@@ -1,27 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Deep Bionic</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#index">Home</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="projects">Projects</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="rpackages">R Packages</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="lectures">Lectures</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#publications">Publications</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contactme">Contact Me</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+      <div>
+  # R Packages on <a href="https://cran.r-project.org/" link>CRAN</a> and <a href="https://github.com/Mthrun" link>GitHub</a>:
 
 
-
-# R Packages on <a href="https://cran.r-project.org/" link>CRAN</a> and <a href="https://github.com/Mthrun" link>GitHub</a>:
-
-
-|---------------------------------------------|---------|------|------------------------------------------------------------------------------------------------|
-| Name                                        | Licence | Link | Authors                                                                                        |
-|---------------------------------------------|---------|------|------------------------------------------------------------------------------------------------|
-| DataVisualizations                          | GPL-3   | CRAN | Michael Thrun, Felix Pape, Onno Hansen-Goos, Dirk Eddelbuettel, Craig Varrichio, Alfred Ultsch |
-| DatabionicSwarm                             | GPL-3   | CRAN | Michael Thrun                                                                                  |
-| ProjectionBasedClustering                   | GPL-3   | CRAN | Michael Thrun, Florian Lerch, Felix Pape, Kristian Nybo, Jarkko Venna                          |
-| GeneralizedUmatrix                          | GPL-3   | CRAN | Michael Thrun, Alfred Ultsch                                                                   |
-| FCPS: Fundamental Clustering Problems Suite | GPL-3   | CRAN | Michael Thrun, Peter Nahrgang, Felix Pape, Vasyl Pihur, Guy Brock, Susmita Datta, Somnath Datta, Luis Winckelmann, Alfred Ultsch, Quirin Stier |
-| Umatrix                                     | GPL-3   | CRAN | Michael Thrun, Michael Thrun, Alfred Ultsch                                                    |
-| AdaptGauss: Gaussian Mixture Models (GMM)   | GPL-3   | CRAN | Michael Thrun, Onno Hansen-Goos, Rabea Griese, Catharina Lippmann, Florian Lerch, Jörn Lötsch, Alfred Ultsch |
-| ABCanalysis                                 | GPL-3   | CRAN | Michael Thrun, Florian Lerch,Jörn Lötsch, Alfred Ultsch                                        |
-| Pareto Density Estimation                   | GPL-3   | CRAN | Michael Thrun, Onno Hansen-Goos, Rabea Griese, Catharina Lippmann, Jörn Lötsch, Alfred Ultsch  |
-| DataIO                                      | GPL-3   | CRAN | Michael Thrun, Florian Lerch, Michael Thrun, Catharina Lippman, Felix Pape, Onno Hansen-Goos, Sabine Herda |                                                                                   
-| TimeSeries                                  | GPL-3   | CRAN | Michael Thrun                                                                                  |
-| Classifiers                                 | GPL-3   | CRAN | Michael Thrun, Rabea Griese, Alfred Ultsch                                                     |
-| Distances                                   | GPL-3   | CRAN | Raphael Paebst, Felix Pape, Michael Thrun                                                      |
-| Hidden Markov Models (RHmm)                 | GPL-3   | CRAN | Ollivier Taramsco, Sebastian Bauer, Maintainer: Michael Thrun                                  |
-|---------------------------------------------|---------|------|------------------------------------------------------------------------------------------------|
-
-
+  |---------------------------------------------|---------|------|------------------------------------------------------------------------------------------------|
+  | Name                                        | Licence | Link | Authors                                                                                        |
+  |---------------------------------------------|---------|------|------------------------------------------------------------------------------------------------|
+  | DataVisualizations                          | GPL-3   | CRAN | Michael Thrun, Felix Pape, Onno Hansen-Goos, Dirk Eddelbuettel, Craig Varrichio, Alfred Ultsch |
+  | DatabionicSwarm                             | GPL-3   | CRAN | Michael Thrun                                                                                  |
+  | ProjectionBasedClustering                   | GPL-3   | CRAN | Michael Thrun, Florian Lerch, Felix Pape, Kristian Nybo, Jarkko Venna                          |
+  | GeneralizedUmatrix                          | GPL-3   | CRAN | Michael Thrun, Alfred Ultsch                                                                   |
+  | FCPS: Fundamental Clustering Problems Suite | GPL-3   | CRAN | Michael Thrun, Peter Nahrgang, Felix Pape, Vasyl Pihur, Guy Brock, Susmita Datta, Somnath Datta, Luis Winckelmann, Alfred Ultsch, Quirin Stier |
+  | Umatrix                                     | GPL-3   | CRAN | Michael Thrun, Michael Thrun, Alfred Ultsch                                                    |
+  | AdaptGauss: Gaussian Mixture Models (GMM)   | GPL-3   | CRAN | Michael Thrun, Onno Hansen-Goos, Rabea Griese, Catharina Lippmann, Florian Lerch, Jörn Lötsch, Alfred Ultsch |
+  | ABCanalysis                                 | GPL-3   | CRAN | Michael Thrun, Florian Lerch,Jörn Lötsch, Alfred Ultsch                                        |
+  | Pareto Density Estimation                   | GPL-3   | CRAN | Michael Thrun, Onno Hansen-Goos, Rabea Griese, Catharina Lippmann, Jörn Lötsch, Alfred Ultsch  |
+  | DataIO                                      | GPL-3   | CRAN | Michael Thrun, Florian Lerch, Michael Thrun, Catharina Lippman, Felix Pape, Onno Hansen-Goos, Sabine Herda |                                                                                   
+  | TimeSeries                                  | GPL-3   | CRAN | Michael Thrun                                                                                  |
+  | Classifiers                                 | GPL-3   | CRAN | Michael Thrun, Rabea Griese, Alfred Ultsch                                                     |
+  | Distances                                   | GPL-3   | CRAN | Raphael Paebst, Felix Pape, Michael Thrun                                                      |
+  | Hidden Markov Models (RHmm)                 | GPL-3   | CRAN | Ollivier Taramsco, Sebastian Bauer, Maintainer: Michael Thrun                                  |
+  |---------------------------------------------|---------|------|------------------------------------------------------------------------------------------------|
+        </div>
+        <!-- Contact-->
+        <section class="contact-section bg-black">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Address</h4>
+                                <hr class="my-4" />
+                                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-envelope text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Email</h4>
+                                <hr class="my-4" />
+                                <div class="small text-black-50"><a href="#!">hello@yourdomain.com</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-mobile-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Phone</h4>
+                                <hr class="my-4" />
+                                <div class="small text-black-50">+1 (555) 902-8832</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="social d-flex justify-content-center">
+                    <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+                    <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+                    <a class="mx-2" href="#!"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="footer bg-black small text-center text-white-50"><div class="container">Copyright © Your Website 2020</div></footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
 
