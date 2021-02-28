@@ -10250,7 +10250,8 @@ body {
 }
 
 .my-plain-text-section {
-  text-align: justify, center;
+  padding: 10rem 0;
+  text-align: justify;
   width: 60%;
 }
 
