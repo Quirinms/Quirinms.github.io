@@ -10302,7 +10302,9 @@ body {
   letter-spacing: 0.15rem;
   border: 0;
 }
-
+.my-plain-text-section {
+  text-align: justify;
+}
 .contact-section {
   padding-top: 5rem;
 }
