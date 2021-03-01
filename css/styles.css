@@ -10253,8 +10253,8 @@ body {
 .myhead {
   position: relative;
   width: 100%;
-  height: 70px;
-  min-height: 70px;
+  height: 150px;
+  min-height: 150px;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/bg-banner.png");
   background-position: center;
   background-repeat: no-repeat;
