@@ -10263,7 +10263,8 @@ body {
 }
 
 .my-plain-text-section {
-  padding: 10rem 0;
+  /*padding: 10rem 0;*/
+  margin-left:10%;
   text-align: justify;
   width: 60%;
 }
